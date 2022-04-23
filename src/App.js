@@ -1,4 +1,5 @@
 import "./App.css";
+import Contact from "./Pages/Contact/Contact";
 import Experience from "./Pages/Experience/Experience";
 import Intro from "./Pages/Intro/Intro";
 import Navbar from "./Pages/Navbar/Navbar";
@@ -17,6 +18,7 @@ function App() {
       <Works />
       <Portfolio />
       <Testimonial />
+      <Contact />
     </div>
   );
 }
