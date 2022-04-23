@@ -8,7 +8,7 @@ import resume from "./resume.pdf";
 
 const Services = () => {
   return (
-    <div className="services">
+    <div className="services" id="services">
       <div className="awesome">
         <span>My Awesome</span>
         <span>Services</span>

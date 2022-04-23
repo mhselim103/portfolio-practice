@@ -13,7 +13,7 @@ import FloatingDiv from "../FloatingDiv/FloatingDiv";
 
 const Intro = () => {
   return (
-    <div className="intro">
+    <div className="intro" id="intro">
       <div className="i-left">
         <div className="i-name">
           <span>Hey! I Am</span>
