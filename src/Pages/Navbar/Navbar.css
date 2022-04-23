@@ -37,3 +37,8 @@
   /* flex: 1; */
   width: 7rem;
 }
+@media screen and (max-width: 480px) {
+  .n-list {
+    display: none;
+  }
+}

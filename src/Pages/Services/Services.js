@@ -12,11 +12,11 @@ const Services = () => {
       <div className="awesome">
         <span>My Awesome</span>
         <span>Services</span>
-        <spane>
+        <span>
           Lorem ispum is simpley dummy text of printing of printing Lorem
           <br />
           ispum is simpley dummy text of printing
-        </spane>
+        </span>
         <a href={resume} download>
           <button className="button s-button">Download CV</button>
         </a>
